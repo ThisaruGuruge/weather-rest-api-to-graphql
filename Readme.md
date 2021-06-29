@@ -10,4 +10,12 @@ This uses the https://weatherapi.com REST api and converts it to a GraphQL API.
 https://ballerina.io/downloads/
 
 ## Running the Example
-To run this sample, replace the `API_KEY` in the `Config.toml` file with the API key generated from the https://weatherapi.com.
+To run this sample, 
+- Checkout this repository
+- Go into the `weather` directory
+- Replace the `<API_KEY>` in the `Config.toml` file with the API key generated from the https://weatherapi.com.
+- Then execute the following `bal` command
+
+```
+bal run
+```
