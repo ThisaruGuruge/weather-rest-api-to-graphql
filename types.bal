@@ -1,0 +1,1 @@
+// type Weather record {};
