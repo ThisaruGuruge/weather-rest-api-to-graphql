@@ -12,7 +12,7 @@ https://ballerina.io/downloads/
 ## Running the Example
 To run this sample, 
 - Checkout this repository
-- Go into the `weather` directory
+- Go into the `weather-rest-api-to-graphql` directory
 - Replace the `<API_KEY>` in the `Config.toml` file with the API key generated from the https://weatherapi.com.
 - Then execute the following `bal` command
 
