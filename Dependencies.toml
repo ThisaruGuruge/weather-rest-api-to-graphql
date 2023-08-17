@@ -327,7 +327,7 @@ modules = [
 ]
 
 [[package]]
-org = "thisaru"
+org = "thisarug"
 name = "weather"
 version = "0.1.0"
 dependencies = [
@@ -336,6 +336,6 @@ dependencies = [
 	{org = "ballerinai", name = "observe"}
 ]
 modules = [
-	{org = "thisaru", packageName = "weather", moduleName = "weather"}
+	{org = "thisarug", packageName = "weather", moduleName = "weather"}
 ]
 

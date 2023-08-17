@@ -30,3 +30,16 @@ To run this sample,
   ```shell
   bal run
   ```
+
+- Test the API with builtin GraphiQL client on this link:
+  http://localhost:4000/weather-test
+
+## About Ballerina GraphQL
+
+Ballerina GraphQL is a Ballerina Standard Library that can be used to expose and consume GraphQL APIs.
+
+Ballerina is an open-source project and it is licensed under Apache License 2.0 by WSO2, Inc.
+
+Contributions are always welcome and a star on the GitHub repo is also appreciated!
+
+[![Star on Github](https://img.shields.io/badge/-Star%20on%20Github-blue?style=social&logo=github)](https://github.com/ballerina-platform/module-ballerina-graphql)
