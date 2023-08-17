@@ -3,7 +3,7 @@ import ballerina/graphql;
 @graphql:ServiceConfig {
     graphiql: {
         enabled: true,
-        path: "/weather_test"
+        path: "/weather-test"
     }
 }
 service /weather on new graphql:Listener(4000) {
